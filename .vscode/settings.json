@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "LeetCode/String",
+        "LeetCode/Array",
+        "LeetCode/Greedy"
+    ]
+}
