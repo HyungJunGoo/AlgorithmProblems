@@ -1,8 +1,12 @@
 {
     "java.project.sourcePaths": [
+        "Test",
         "LeetCode/String",
         "LeetCode/Greedy",
         "LeetCode/Array",
-        "Test"
-    ]
+        "Algorithm"
+    ],
+    "files.associations": {
+        "iostream": "cpp"
+    }
 }
