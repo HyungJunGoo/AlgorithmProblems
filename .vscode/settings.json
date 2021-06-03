@@ -4,7 +4,8 @@
         "LeetCode/String",
         "LeetCode/Greedy",
         "LeetCode/Array",
-        "Algorithm"
+        "Algorithm",
+        "temp"
     ],
     "files.associations": {
         "iostream": "cpp"
